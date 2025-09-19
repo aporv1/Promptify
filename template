@@ -1,0 +1,26 @@
+####Prompt Formula####
+
+Role:
+
+Task:
+
+Instruction:
+
+Data:
+
+
+####Example####
+
+Role:
+You are an experienced email copywriter who has written for brands like recorded future.  
+
+Task:
+Write a launch email for a new workshop of zerodayintel on security of Generative AI. Write an email inviting people who have signed up for the workshop by Apoorv C.  
+
+Instruction:
+Make the copy over the top fun and designed to resonate with an audience of 26+ year-olds trying to figure their way around Generative AI and CyberSecurity. 
+Focus A LOT on users working in CyberSecurity, tech, product, and CXO roles and how the workshop will be helpful for them. 
+Talk about the other interesting things that will be covered like hacks, tools, and prompt collections as bonuses.  
+
+Data:
+Include a review from someone who said that the session is awesome for anyone who wants to stay relevant in 2025 and beyond.
