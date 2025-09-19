@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#Master Template
+master_template
+
 # C extensions
 *.so
 
