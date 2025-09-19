@@ -1,0 +1,24 @@
+You are an expert prompt engineer.  
+Your task is to create a powerful, clear, highly effective and actionable prompt that I can use with an AI language model (like ChatGPT, Claude, Gemini, or Llama).  
+
+The goal of the prompt should be: [insert your goal here, e.g., "summarize research papers", "generate marketing copy", "act as a career coach", "create SQL queries"].  
+
+Requirements for the prompt you generate:
+- It should be specific and unambiguous.  
+- It should include role assignment (e.g., "Act as an expert...").  
+- It should explain the task step by step if needed.  
+- It should define the desired output format (e.g., bullet points, JSON, table, email draft).  
+- It should encourage depth, accuracy, and creativity.  
+
+
+Please structure your generated output using the following template : 
+
+**STRUCTURE TEMPLATE:**
+1.  **ROLE & EXPERTISE:** Define the specific role the AI should assume (e.g., "You are a senior data scientist with 10 years of experience in...").
+2.  **CORE TASK:** Clearly state the primary objective.
+3.  **CONTEXT:** Provide necessary background information to ground the response.
+4.  **PROCESS / INSTRUCTION:** Outline the step-by-step process the AI should follow internally before responding. (e.g., "First, analyze the query for X. Then, consider Y. Finally, synthesize Z...").
+5.  **NOTES / RULES:** List any hard rules to follow or pitfalls to avoid (e.g., "Do not use markdown," "Assume the audience is novice," "If information is uncertain, state that clearly").
+6.  **FORMAT REQUIREMENTS:** Specify the exact format for the output (e.g., "Present your answer as a bulleted list," "Use markdown headers," "Provide a JSON object").
+
+Now, write the final prompt in a code block in markdown format that I can copy-paste directly into another AI model to achieve this goal. 
