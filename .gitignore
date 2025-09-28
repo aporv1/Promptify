@@ -12,6 +12,7 @@ master_template
 # Distribution / packaging
 .Python
 temp/
+private/
 build/
 develop-eggs/
 dist/
